@@ -1,0 +1,9 @@
+Slab Model；plot the energy-time curve ；
+
+During the calculation, the overall structure does not change much, 
+but there are a few ion steps in the middle that do not converge, 
+so there will be spurious peaks in the curve.
+
+try to change ALGO = F to ALGO = N.
+The calculation is not over yet,
+but it is found that the trend is relatively stable and there are no stray peaks
